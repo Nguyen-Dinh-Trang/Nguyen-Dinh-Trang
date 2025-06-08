@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/IMG_20250502_135035.jpg" width="90%" height="150" alt="Nguyễn Đình Tráng" style="border-radius: 50%;" />
-</p>
+
 # 👋 Hello! I'm Nguyễn Đình Tráng
 
 ## 🚀 About Me
